@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "geodata1-27120",
+  "private_key_id": "38afaf52dc1b06c9a6d5cdade869410dacaaae62",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCmt7q2swm4UF6h\nSTqvdInL7KHgQ2bXmLgljs5qWYxX4IPRehiQlBUM5FDeweE1eUS7vH2pnLUwrJkD\nlxLm9wMLKf3ntxEUez8xRZtPORmmDRJHKhp5tZtS/U0yPFTJov7OeQvQLFYpW22a\nZ8xIWox2ISpFtKo2nsc7XqgZTHe4ECmFV8u6OU/OotzIK/O2vppQlAYV6KtHA8AO\nVunAnFEEcsKll+NzJ1H0N9GAPbUr9xg/K9YjrwDIAHsgEYVjZ3EKDvmMS9thy+mI\nW0LqNo76sbAgs728I+l51/X1lTqU/Shazly5X4PQAY7Wz5ZOsdT1GCgtK7wVmCug\n9owvMEhVAgMBAAECggEABgLOAQGBCkvJhv6qgUIjfWkC0stoqpbSHYvh04dMLldF\nDBk0crKyye7Jyfz1t1Vv6JCXUPV6ZJl11eGNTVW0Hs5XiNJ6qOv4VLjfVz1Q4wIJ\nz0DhyKgchCLntOCPJ7WlrWuYr7DdisBbZLZf25mk2ACCSJZG5HvCkAMtw+W+05x1\n/78ZNZD7vUPAbv5FSPG/9QaUhQ7r9DlFBx02mMwR25lrpF7EFi8OMU0YapGNTKP8\neJSJxgwUdkONorXMipWRZZkZHFIbUs7qulmBspNxkhWYyRaRPAFBS8mGecXExDhu\nlD8Np/rPg/s6I7Oo0JjaiN0yPF1+6baY9RD9b3iB4QKBgQDUFN+9RqtHcybTfML1\n0bT7yf4T+Yy5MONIukMfw9B31wXY0znkaFq7bDVRpQFRLIfxDX8NjzrARcFURWJW\n8ozXnwpT8ZGCAcyeW1Mlsw18kpLEfFyU0uEnAPf2/feiCOjmo+RFIQrF4/L41B9R\n/9eaAveXaZTH/CP7pc7BHGhtdQKBgQDJPfi+Lh+p4B8fKXD19meIwWkiBwpa0Wxy\n6se4U6recNQN/C23lDIkygMgPKx5baq/FunuOmJ7rgFx0MTpnvx1MjrpeHf+Le1E\n4Z6FoP51x3gywbCNEsZC/Jm6AyLulHQ7bfNf+Nkd3LyRaenyiYTMYzyo+LSnY79S\nPn6w+f6zYQKBgDgWXSV9bwayWW5M7HJ+R1LflKZLtP+1AibVu7LG4ncPEqjJE+Jo\nBrbSYzd4X+TL1hfV7ef0HSGEUSCsSNmdw8mycdTJaiXru+WVWWP6+nIbgV0dVo61\nRn4+L1XOzJK5sH5ukYwGtQaoxjUwRCg3dRlx93C/p21MLWf77bX8gVGRAoGADRGZ\nNcCJDd8gJkXqsA5watEkorESWxN+l3fnwHCuiAOLwdy+m01kdD8qNM275abZj89N\nIcto2d9S+LE2GHXar0Gz0bWhFUCmR/Le+I6b98ocZC9v57lwZqlA0nOhsRyy76kU\nRQdEEkxjco4OQ1Hq7dsD9XUxRi2UHyMv1w5lHAECgYBDgAutBvB2CFfyv/ZDGMqy\n1n2XCSuTg67Qp7XbKuXXE7KWnMP2S1zJYhwC3nxG2R7vrSX9oDaFY9YyaDn4R12B\nL4KgC5xt3QinJs3RtHqSDN91CAASzjGrYehliOrMGqanIQR6HErUqnPRZoZzTCcS\nUoKZpX5rFcL53/8JoNv4BQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-v1anb@geodata1-27120.iam.gserviceaccount.com",
+  "client_id": "111699151803549910833",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-v1anb%40geodata1-27120.iam.gserviceaccount.com"
+}
